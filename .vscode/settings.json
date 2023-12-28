@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+
+    },
+    "emmet.preferences": {
+        "emmet.triggerExpansionOnTab": true
+    },
+    "emmet.excludeLanguages": []
+}
